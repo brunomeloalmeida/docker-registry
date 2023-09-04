@@ -1,0 +1,5 @@
+typer
+requests
+colorama
+shellingham
+python-dotenv
